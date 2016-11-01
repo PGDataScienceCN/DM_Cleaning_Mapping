@@ -122,7 +122,7 @@ def main():
     t_path = prefix_path + '/DM Scorecard/WM 1501 1.1-1.14.csv'
     sc_path = prefix_path + '/DM Scorecard/WM 1*.csv'
 
-    dm_date = get_dm_date(t_path)
+    # dm_date = get_dm_date(t_path)
 
     # check_summary_sheet(dir_path) #one time job
     # get_summary_sheet(dir_path)
